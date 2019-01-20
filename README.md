@@ -1,3 +1,3 @@
 # Machine-Learning-Algo
 
- #### In this repository implementations of Machine Learning Algorithms are present
+In this repository I have added the implementation of certain exercises of the course Machine Learning by Andrew Ng .
